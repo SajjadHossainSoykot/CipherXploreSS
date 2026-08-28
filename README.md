@@ -692,8 +692,14 @@ You must:
 
 Sajjad Hossain Soykot  
 
+Website:  
+https://www.sajjadsoykot.me
+
 GitHub:  
 https://github.com/SajjadHossainSoykot
+
+LinkedIn:  
+https://linkedin.com/in/sajjadhossainsoykot
 
 Repository:  
 https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal
