@@ -6,10 +6,17 @@ import {
   FaLinkedinIn,
   FaTwitter,
   FaYoutube,
+  FaGlobe,
 } from "react-icons/fa";
-import { SiCodeforces } from "react-icons/si";
 
 const socialLinks = [
+  {
+    name: "Website",
+    href: "https://www.sajjadsoykot.me",
+    icon: FaGlobe,
+    className:
+      "border-teal-400/30 bg-teal-500/15 text-teal-600 dark:text-teal-200",
+  },
   {
     name: "GitHub",
     href: "https://github.com/SajjadHossainSoykot",
@@ -51,13 +58,6 @@ const socialLinks = [
     icon: FaYoutube,
     className:
       "border-red-400/30 bg-red-500/15 text-red-600 dark:text-red-200",
-  },
-  {
-    name: "Codeforces",
-    href: "https://codeforces.com/profile/sajjadsoykot",
-    icon: SiCodeforces,
-    className:
-      "border-cyan-400/30 bg-cyan-500/15 text-cyan-600 dark:text-cyan-200",
   },
   {
     name: "Discord",
