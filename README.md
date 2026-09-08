@@ -15,7 +15,7 @@ Live API:
 https://cipherxploress-api.onrender.com/
 
 Main Repository:  
-https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal
+https://github.com/SajjadHossainSoykot/CipherXploreSS
 
 ---
 
@@ -101,7 +101,7 @@ This project is based on the ICT-4110 Cryptography and Network Security Laborato
 ## 🏗 Project Structure
 
 ```text
-Cryptography_Web_Portal/
+CipherXploreSS/
 |
 ├── crypto-backend/
 |   ├── algorithms/
@@ -702,7 +702,7 @@ LinkedIn:
 https://linkedin.com/in/sajjadhossainsoykot
 
 Repository:  
-https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal
+https://github.com/SajjadHossainSoykot/CipherXploreSS
 
 ---
 
